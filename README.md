@@ -12,5 +12,5 @@ My independent development project:
 - [Juejin](https://juejin.im/user/576915101532bc00603df0e2)
 - [Website](http://airsaid.com/)
 
-# GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=airsaid&hide_title=false&show_icons=true&icon_color=007aff&text_color=333&bg_color=fff" />
+# GitHub Stats :octocat:
+<img src="https://github-readme-stats.vercel.app/api?username=airsaid&show_icons=true" />
