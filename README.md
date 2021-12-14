@@ -1,10 +1,6 @@
 # Hi there :wave:
 My name is Airsaid, an Android software engineer.
 
-My independent development project:
-- [DotDot](https://play.google.com/store/apps/details?id=com.mugglegame.dotdot)
-- [NumPuzzle](https://play.google.com/store/apps/details?id=com.mugglegame.numpuzzle)
-
 # Reach me :mailbox:
 - [Telegram](https://t.me/airsaid)
 - [LeetCode](https://leetcode-cn.com/u/airsaid/)
