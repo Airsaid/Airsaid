@@ -1,5 +1,5 @@
 # Hi there :wave:
-My name is YooZhou, An Android software engineer, Independent developer.
+My name is YooZhou, Independent developer.
 
 Check out my independently developed applications at [GooglePlay](https://play.google.com/store/apps/dev?id=5727013799125585511).
 
