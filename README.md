@@ -1,8 +1,6 @@
 # Hi there :wave:
 My name is YooZhou, Independent developer.
 
-Check out my independently developed applications at [GooglePlay](https://play.google.com/store/apps/dev?id=5727013799125585511).
-
 # Reach me :mailbox:
 - [Twitter](https://twitter.com/airsaid1024)
 - [Telegram](https://t.me/airsaid)
